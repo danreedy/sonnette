@@ -13,7 +13,7 @@ while true do
     if i.eql?('1')
       saying = 'Ding Dong!'
       provider.broadcast saying
-      puts saying
+      puts saying + " - The Door Bell Rang at #{Time.now.strftime("%B %d, %Y at %-I:%M%P")}"
       system("say '#{saying}'")
     end
   end
