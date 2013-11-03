@@ -13,3 +13,6 @@ Credit where Credit is Due:
 - Matt Bullock
 - Josh Sullivan
 - Dan Reedy
+
+This project uses the MIT license
+
